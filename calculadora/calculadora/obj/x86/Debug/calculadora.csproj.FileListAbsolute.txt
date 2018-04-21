@@ -1,0 +1,7 @@
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\calculadora.csproj.GenerateResource.Cache
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\calculadora\calculadora\obj\x86\Debug\WindowsFormsApplication1.frmPrincipal.resources
